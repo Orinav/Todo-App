@@ -1,5 +1,5 @@
 ## Full Stack Mini Project(Learning purposes)
-Todo App built with Flask, HTML, CSS, JavaScript and PostgreSQL.
+Todo App built with Flask, HTML, CSS, Vanilla JavaScript and PostgreSQL.
 
 ## How to run the Flask part
 Go to backend/main.py and run it.
